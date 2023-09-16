@@ -1,7 +1,7 @@
  # Hey!👋<br><br><br>
 
 <p align="center">
-   [image](https://github.com/Darshan26B/Darshan26B/assets/125239130/4d1c1058-3317-4281-b3c0-1cc6e6f4869b)
+   <img  "https://github.com/Darshan26B/Darshan26B/assets/125239130/4d1c1058-3317-4281-b3c0-1cc6e6f4869b"/>
 
 </p>
 
