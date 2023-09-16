@@ -2,7 +2,7 @@
 
  
  <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer&font=Fira%20Code&center=true&width=440&height=45&color=5398FE&vCenter=true&pause=000&size=22" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer&font=Fira%20Code&center=true&width=440&height=45&color=5398FE&vCenter=true&pause=0&size=22" />
  </p>
 
 
