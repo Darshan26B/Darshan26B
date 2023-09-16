@@ -1,4 +1,4 @@
-  <h1 align="center"> Hey! 👋 <br><br> I'm Bagthariya Darsha </h1> <br>
+  <h1 align="center"> Hey! 👋 <br><br> I'm Bagthariya Darshan </h1> <br>
 
  
  
