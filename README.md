@@ -1,7 +1,7 @@
  # Hey!👋<br><br><br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=#5398FE&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20developer;&center=true&width=440&height=45&color=#5398FE&size=22" />
 </p>
 
 
