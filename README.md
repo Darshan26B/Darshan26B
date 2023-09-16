@@ -1,7 +1,8 @@
  # Hey!👋<br><br><br>
 
 <p align="center">
-    [<img src="https://readme-typing-svg.demolab.com/?lines=Android developer;&center=true&width=440&height=45&color=#5398FE&size=22" />](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+   ![image](https://github.com/Darshan26B/Darshan26B/assets/125239130/4d1c1058-3317-4281-b3c0-1cc6e6f4869b)
+
 </p>
 
 
