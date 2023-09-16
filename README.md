@@ -1,4 +1,4 @@
-  <h1 align="center"> Hey!👋</h1> 
+  <h1 align="center"> Hey!👋</h1> <br><br><br>
 
  
  <p align="center">
@@ -6,7 +6,7 @@
  </p>
 
 
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwxbms4YjE0NGpnMHNkazBmMnQ0eTVwNmh1dWd2cGZqOHF3cG4waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+ <br><br><br><img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwxbms4YjE0NGpnMHNkazBmMnQ0eTVwNmh1dWd2cGZqOHF3cG4waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
  # 💻 Tech Stack:
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
