@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 Hey! h1\> 👋<br><br><br>
+Hey!👋<br><br><br>
 
 
 # 💻 Tech Stack:
