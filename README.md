@@ -1,7 +1,7 @@
  # Hey!👋<br><br><br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android developer;&center=true&width=440&height=45&color=#5398FE&size=22" />
+    [<img src="https://readme-typing-svg.demolab.com/?lines=Android developer;&center=true&width=440&height=45&color=#5398FE&size=22" />](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 </p>
 
 
