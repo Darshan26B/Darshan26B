@@ -5,9 +5,12 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5398FE&vCenter=true&pause=1000&size=22" />
  </p>
 
+
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwxbms4YjE0NGpnMHNkazBmMnQ0eTVwNmh1dWd2cGZqOHF3cG4waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
  # 💻 Tech Stack:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -22,7 +25,6 @@
 
 
  
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwxbms4YjE0NGpnMHNkazBmMnQ0eTVwNmh1dWd2cGZqOHF3cG4waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 # 📊 GitHub Stats:
