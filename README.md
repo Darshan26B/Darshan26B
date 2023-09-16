@@ -1,7 +1,6 @@
-  <h1 align="center"> Hey! 👋 <br> I'm Bagthariya Darsha </h1> <br>
+  <h1 align="center"> Hey! 👋 <br><br><h2 align="center" I'm Bagthariya Darsha</h2> </h1> <br>
 
-<h2 align="center"> I'm Bagthariya Darsha</h2> <br><br><br>
-
+ 
  
  <p align="center">
  <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer&font=Fira%20Code&center=true&width=440&height=45&color=5398FE&vCenter=true&pause=0&size=22" />
